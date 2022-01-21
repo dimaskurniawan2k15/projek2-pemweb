@@ -1,0 +1,80 @@
+"PROJECT"Syahdunansendu:
+
+LANGKAH-LANGKAH:
+1.landing_lokernf
+2.lowongan_lokernf
+3.detail_lowongan_lokernf
+
+4.isi_lowongan_lokernf
+
+5.mitra_lokernf
+6.form_mitra_lokernf
+7.admin_lowongan
+
+8.admin_mitra
+9.login_user
+10.registrasi_user
+
+1.Apa si itu Syahdunansendu?
+Jawab:
+(BAGIAN LANDING_LOKERNF)
+Syahdunansendu adalah perusahaan rintisan media dan teknologi digital independent yang berbasis di Jakarta. Didirikan pada awal 2022 ini oleh pengembang perangkat lunak Syahdunansendu team. Founder dari “Syahdunansendu”mengatakan medium tersebut digunakan untuk mendengarkan beragam pembahasan dengan tema menarik. Ia mengaku senang masuk ke room dengan topik seperti pengalaman konten interaktif, hiburan berkualitas, Pendidikan informatif kepada audiens global.
+
+2.Syahdunansendu ngapain aja sih sistem kerjanya?
+Jawab:
+(BAGIAN LANDING_LOKERNF)2.1 Syahdunansendu hadir sebagai media informasi lowongan kerja untuk membantu pencari kerja dalam usaha mencari lowongan kerja yang tersedia dan terbaru. Kami senantiasa mempubliskan lowongan kerja yang valid, akurat,  dan terpercaya untuk diinformasikan kepada pengguna website kami. Agar mempermudahkannya dalam mencari informasi lowongan kerja.
+
+2.2 Syahdunansendu lahir untuk memenuhi kebutuhan pemasar modern untuk melayani audiens generasi baru, yaitu Gen-Z dan milenial, dimana periklanan konvensional tidak lagi efektif. Zaman telah bergeser dari era kompentensi yang terfragmentasi ke era koloborasi yang fleksibel
+
+3. Apakah ada Jobs untuk Freshgraduate?
+Jawab:
+
+3.1 (BAGIAN LOWONGAN_LOKERNF) Bagi para mahasiswa/i yang mau pengalaman kerja, bisa magang di perusahaan kami terutama yang mengambil jurusan komunikasi, public relation, media, desgin graphis yang mau belajar tentang e commerce, sosial media, digital marketing, content, host, membuat video youtube, tiktok, mengedit video, design, Ngoding.
+Ditunggu lamaran dari teman semua
+Contract length: 3 months
+Part-time hours: 30 per week
+Job Types: Part-time, Internship
+Pay: Rp500,000 - Rp1,000,000 per month
+
+3.2 ... jadi satu
+
+4. (DETAIL_LOWONGAN_SILOKERNF)
+
+Kami membuka lowongan pekerjaan sebagai IT JAVA Script. Silahkan ajukan lamaran melalui website ini jika kamu merupakan kandidat potensial yang sesuai dengan kualifikasi dan persyaratan berikut:
+
+Tanggung Jawab Pekerjaan :
+Memiliki surat pengalaman kerja dalam JAVA Script, KTP, dan NPWP
+
+Syarat Pengalaman :
+Pengalaman kerja minimal 1 tahun dalam bidang IT JAVA Script
+Keahlian :
+JAVA Script, Spring, SpringMVC, SpringBoot, SpringCloud, Mybatis, Mybatis-plus, Redis, Swagger2.
+Minimal mengenal salah satu.
+
+Kualifikasi :
+– Pria/Wanita Umur 20-35 Mengenal basic JAVA，dan bahasa English
+– Kemampuan logis yang kuat, kemampuan kerja tim yang baik, komunikasi yang baik dan rasa tanggung jawab, mampu menanggung tekanan kerja yang lebih besar。
+– Pendidikan minimal Diploma
+
+Tunjangan :
+1.Perusahaan menyediakan tempat tinggal makanan,buah,tempat gym,swimming pool dll.
+2.Sehari makan 5x, tiap bulan memberikan buah-buahan dan makan bersama
+3.Hari besar dan hari ulang tahun akan diberikan envelope
+4.Hotel karantina,swab,pcr,tiket pesawat semua ditanggung perusahaan
+
+Waktu Bekerja :
+Jam 09.00/19.00 Senin/Sabtu
+Jenis Pekerjaan :
+Remote (Work From Home)
+
+4.Persyaratan yang harus di penuhi:
+1. Surat Lamaran Kerja
+2. Daftar Riwayat Hidup/Curriculum Vitae (CV)
+3. Pas Foto Terbaru
+4. Fotokopi Kartu Identitas (KTP)
+5. Ijazah dan Transkip Nilai (Asli dan Fotokopi)
+6. Fotokopi SKCK
+7. Fotokopi Surat Keterangan Sehat
+8. Fotokopi Kartu Kuning
+9. Fotokopi Surat Pengalaman Kerja
+10. Fotokopi Sertifikat-Sertifikat Pendukung Lainnya
